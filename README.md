@@ -3,7 +3,9 @@
 ## Core skills:
 
  :white_square_button: Python Backend Development (Django, Flask, etc)
+ 
  :white_square_button: Infrastructure (Terraform, Kubernetes)
+ 
  :white_square_button: Computer Vision / DeepLearning / MachineLearning (OpenCV, Tensorflow, Keras, Scikit-learn)
  
 ## Reaching out :speech_balloon::
